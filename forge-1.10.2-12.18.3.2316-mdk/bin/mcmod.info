@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "wchb",
+  "name": "What Could Have Been",
+  "description": "Explores the possibilities of what Minecraft could have been, if it was developed more as an RPG/Survival, instead of Sandbox.",
+  "version": "0.1",
+  "mcversion": "1.10.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["zIIJOEIIz"],
+  "credits": "The Forge and FML guys, for creating forge and making modding in Minecraft possible for others.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

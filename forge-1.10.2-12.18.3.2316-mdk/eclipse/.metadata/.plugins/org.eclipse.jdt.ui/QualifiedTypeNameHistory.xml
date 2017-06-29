@@ -2,4 +2,14 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.ModMetadata"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.Metadata"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="com.wchb.jemain.Reference"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="com.wchb.jemain.init.wchbBlocks"/>
+<fullyQualifiedTypeName name="com.wchb.jemain.init.wchbItems"/>
+<fullyQualifiedTypeName name="com.wchb.jemain.wchbMod"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="net.minecraft.block.SoundType"/>
 </qualifiedTypeNameHistroy>

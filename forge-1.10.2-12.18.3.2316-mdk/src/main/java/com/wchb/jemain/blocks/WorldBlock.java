@@ -1,0 +1,22 @@
+package com.wchb.jemain.blocks;
+
+import  net.minecraft.block.Block;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+
+public class WorldBlock extends Block{
+
+	public WorldBlock(Material materialIn) {
+		super(materialIn);
+		this.setBlockUnbreakable();
+		this.setResistance(6000000.0F);
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Block setSoundType(SoundType sound)
+    {
+        this.blockSoundType = sound;
+        return this;
+    }
+
+}

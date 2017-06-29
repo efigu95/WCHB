@@ -1,0 +1,5 @@
+package com.wchb.jemain.proxy;
+
+public class ClientProxy {
+
+}

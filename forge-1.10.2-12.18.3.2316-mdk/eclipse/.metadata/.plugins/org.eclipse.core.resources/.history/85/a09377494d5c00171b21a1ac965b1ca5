@@ -1,0 +1,11 @@
+package com.wchb.jemain.blocks;
+
+import net.minecraft.block.BlockGrass;
+
+public class WorldGrassBlock extends BlockGrass {
+	
+	public WorldGrassBlock(){
+		this.setBlockUnbreakable();
+		this.setResistance(6000000.0F);
+	}
+}

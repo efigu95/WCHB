@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wchb",
+  "name": "What Could Have Been",
+  "description": "Explores the possibilities that could have been, if more creative paths were taken in developing Minecraft as an RPG/Survival instead of Sandbox.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zIIJOEIIz"],
+  "credits": "The Forge and FML guys, for creating forge and making modding in Minecraft possible for others.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
